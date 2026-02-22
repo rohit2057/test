@@ -11,7 +11,7 @@
 
 <body class="bg-gradient-to-br from-gray-50 to-gray-100 text-gray-900">
 
-    <x-ui.header />
+    <x-ui.public-header />
     <x-ui.carousel />
     <x-ui.overview />
     <x-ui.upcoming-event />
